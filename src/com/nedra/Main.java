@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Good evening!");
     }
     public static void another () {
-         System.out.println("Hello Another method!!!")
+         System.out.println("Hello Another method!!!");
         }      
 }
