@@ -7,4 +7,7 @@ public class Main {
         System.out.println("Good morning!");
         System.out.println("Good evening!");
     }
+    public static void another () {
+         System.out.println("Hello Another method!!!")
+        }      
 }
